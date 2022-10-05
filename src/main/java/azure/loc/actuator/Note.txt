@@ -1,0 +1,55 @@
+Enter below url to fetch all endpoints:
+http://localhost:8082/actuator
+
+Response:
+{"_links":{"self":{"href":"http://localhost:8082/actuator","templated":false},"beans":{"href":"http://localhost:8082/actuator/beans","templated":false},"caches-cache":{"href":"http://localhost:8082/actuator/caches/{cache}","templated":true},"caches":{"href":"http://localhost:8082/actuator/caches","templated":false},"health":{"href":"http://localhost:8082/actuator/health","templated":false},"health-path":{"href":"http://localhost:8082/actuator/health/{*path}","templated":true},"info":{"href":"http://localhost:8082/actuator/info","templated":false},"conditions":{"href":"http://localhost:8082/actuator/conditions","templated":false},"configprops":{"href":"http://localhost:8082/actuator/configprops","templated":false},"env":{"href":"http://localhost:8082/actuator/env","templated":false},"env-toMatch":{"href":"http://localhost:8082/actuator/env/{toMatch}","templated":true},"loggers":{"href":"http://localhost:8082/actuator/loggers","templated":false},"loggers-name":{"href":"http://localhost:8082/actuator/loggers/{name}","templated":true},"heapdump":{"href":"http://localhost:8082/actuator/heapdump","templated":false},"threaddump":{"href":"http://localhost:8082/actuator/threaddump","templated":false},"metrics-requiredMetricName":{"href":"http://localhost:8082/actuator/metrics/{requiredMetricName}","templated":true},"metrics":{"href":"http://localhost:8082/actuator/metrics","templated":false},"scheduledtasks":{"href":"http://localhost:8082/actuator/scheduledtasks","templated":false},"mappings":{"href":"http://localhost:8082/actuator/mappings","templated":false}}}
+
+Customize Management Server Address
+management.server.port=8081
+management.server.address=127.0.0.1
+management.port = 9000
+
+CORS support
+management.endpoints.web.cors.allowed-origins=https://example.com
+management.endpoints.web.cors.allowed-methods=GET,POST
+
+Enable only specific
+management.endpoint.health.enabled=true
+management.endpoint.loggers.enabled=true
+
+Disable All
+management.endpoints.enabled-by-default=false
+
+Caching the Response
+management.endpoint.beans.cache.time-to-live=20s
+
+Change the Management endpoint context path
+management.endpoints.web.base-path=/manage
+
+To expose only selected endpoints
+management.endpoints.jmx.exposure.include=health,info,env,beans
+
+
+########Code for securing actuator endpoints#################
+management.security.enabled=true
+security.basic.enabled=true
+security.user.name=admin
+security.user.password=admin
+management.security.roles=ACTRADMIN
+
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-security</artifactId>
+</dependency>
+
+@Configuration
+public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
+
+    @Autowired
+    public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {
+        auth.inMemoryAuthentication().withUser("admin").password("admin").roles("ACTRADMIN");
+
+    }
+}
+
+remove or comment the properties configuration security.user.name and security.user.password defined in application.properties and hit th url localhost:8080/manage/beans

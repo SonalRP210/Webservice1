@@ -1,0 +1,27 @@
+trigger:
+- master
+
+variables:
+  azureSubscription: '9d33721d-3746-4630-85c0-79ee758836a0'
+  webAppName: 'sonal-d-webapp'
+  environmentName: 'sonal-d-webapp'
+  vmImageName: 'ubuntu-latest'
+
+stages:
+- stage: Build
+  displayName: Build and Publish artifact
+  jobs:
+    - template: flows/java-maven.yml@pipetemplates
+      parameters:
+        java_version: '1.11'
+        publish_pipeline_artifact: 'true' # (optional) 'true' | 'false' defaults to false
+        #publish_directory: "$(Build.SourceDirectory)/target" #(optional) Specify the location of the artifacts to be published to the
+        published_artifact_name: 'loc'
+        run_nexus_lc_scan: 'true' # (optional) 'true' | 'false' defaults to true. Only possible on non-release branches. When put to false on a non-release branch, nexus lc scan will not run.
+        sonarqube_sc: cbx-sonarqube-p-sc
+        run_sonarqube_scan: 'true' # (optional) 'true' | 'false' defaults to true. Only possible on non-release branches. When put to false on a non-release branch, nexus lc scan will not run.
+        nexus_lc_name: com.trade.finance.loc
+        fortify_project_name: com.trade.finance/loc
+        execute_publishing: 'true' # (optional); defaults to true. Skip the step to publish a Maven artifact to Nexus.
+        #run_release: false # (optional); if there's no use case to do a Maven release set this parameter to false to skip the maven release step. Defaults to true.
+        versioning: source  # (optional), defaults to 'source'. Options: generate/source/use-published. For more info see the chapter on versioning.

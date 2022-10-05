@@ -1,0 +1,9 @@
+{
+  "goodsCode" :  "goodsCode",
+  "goodsName" :  "goodsName",
+  "status"    :  "Verified",
+  "comment"   :  "comments",
+  "updateDate" :  "2017-12-12",
+  "updatedBy" :  "user",
+  "version" :  1
+}

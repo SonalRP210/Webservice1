@@ -1,0 +1,7 @@
+Now how to verify?
+Please go to your project’s target folder and run below command to see your .tag.gz file contents.
+
+bash-3.2$ tar zxvf CBS-0.0.1-SNAPSHOT-bundle.tar.gz
+
+https://crunchify.com/maven-assembly-plugin-how-to-create-tar-gz-or-zip-archive-for-java-enterprise-project-using-maven/
+https://examples.javacodegeeks.com/enterprise-java/maven/maven-assembly-plugin-example/

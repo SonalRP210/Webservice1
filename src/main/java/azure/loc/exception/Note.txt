@@ -1,0 +1,2 @@
+In Postman
+http://localhost:8082/products/2

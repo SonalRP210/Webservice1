@@ -1,0 +1,451 @@
+2021-06-05 15:19:15,193 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 271026993ms
+2021-06-05 15:20:15,198 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 15:21:15,199 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 15:22:15,202 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 15:23:15,204 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 15:24:15,213 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 15:25:15,216 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 15:26:15,225 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 15:27:12,139 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 15:27:15,237 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 15:28:15,252 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 15:29:15,259 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 15:30:15,272 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 15:31:15,272 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 15:32:11,959 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 15:32:15,288 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 15ms
+2021-06-05 15:33:15,297 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 15:34:15,299 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 15:35:15,300 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 15:36:15,306 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 15:37:12,150 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 15:37:15,308 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 15:38:15,308 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 15:39:15,317 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 15:40:15,322 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 15:41:15,336 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 15:42:15,347 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 15:43:15,354 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 15:44:15,368 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 15:45:15,380 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 15:46:15,383 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 15:47:11,966 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 15:47:12,154 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 15:47:15,396 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 15:48:15,411 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 15:49:15,414 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 15:50:15,421 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 15:51:15,431 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 15:52:15,435 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 15:53:15,448 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 15:54:15,461 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 15:55:15,461 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 15:56:15,467 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 15:57:12,169 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 15:57:15,469 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 15:58:15,479 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 15:59:15,480 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 16:00:15,485 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 16:01:15,493 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 16:02:11,968 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 16:02:15,495 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 16:03:15,502 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 16:04:15,516 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 16:05:15,530 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 16:06:15,541 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 16:07:12,185 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 16:07:15,547 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 16:08:15,557 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 16:09:15,558 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 16:10:15,562 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 16:11:15,565 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 16:12:15,579 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 16:13:15,583 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 16:14:15,583 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 16:15:15,585 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 16:16:15,586 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 16:17:11,972 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 16:17:12,192 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 16:17:15,587 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 16:18:15,595 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 16:19:15,605 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 16:20:15,616 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 16:21:15,630 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 16:22:15,645 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 16:23:15,653 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 16:24:15,663 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 16:25:15,671 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 16:26:15,684 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 16:27:12,193 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 16:27:15,689 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 16:28:15,694 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 16:29:15,695 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 16:30:15,698 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 16:31:15,703 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 16:32:11,978 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 16:32:15,717 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 16:33:15,727 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 16:34:15,730 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 16:35:15,739 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 16:36:15,740 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 16:37:12,195 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 16:37:15,747 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 16:38:15,758 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 16:39:15,763 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 16:40:15,778 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 16:41:15,793 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 16:42:15,800 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 16:43:15,802 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 16:44:15,818 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 16ms
+2021-06-05 16:45:15,834 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 15ms
+2021-06-05 16:46:15,836 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 16:47:11,993 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 16:47:12,210 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 16:47:15,848 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 16:48:15,857 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 16:49:15,866 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 16:50:15,878 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 16:51:15,880 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 16:52:15,884 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 16:53:15,894 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 16:54:15,897 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 16:55:15,902 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 16:56:15,905 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 16:57:12,213 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 16:57:15,918 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 16:58:15,931 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 16:59:15,942 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 17:00:15,951 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 17:01:15,954 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 17:02:11,996 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 17:02:15,954 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 17:03:15,971 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 16ms
+2021-06-05 17:04:15,981 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 17:05:15,988 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 17:06:15,997 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 17:07:12,227 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 17:07:16,007 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 17:08:16,015 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 17:09:16,024 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 17:10:16,025 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 17:11:16,027 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 17:12:16,034 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 17:13:16,037 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 17:14:16,039 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 17:15:16,050 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 17:16:16,060 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 17:17:12,009 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 17:17:12,228 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 17:17:16,060 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 17:18:16,062 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 17:19:16,067 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 17:20:16,074 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 17:21:16,082 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 17:22:16,087 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 17:23:16,102 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 17:24:16,109 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 17:25:16,115 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 17:26:16,127 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 17:27:12,236 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 17:27:16,140 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 17:28:16,143 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 17:29:16,152 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 17:30:16,165 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 17:31:16,172 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 17:32:12,022 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 17:32:16,172 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 17:33:16,186 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 17:34:16,191 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 17:35:16,202 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 17:36:16,205 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 17:37:12,237 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 17:37:16,208 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 17:38:16,216 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 17:39:16,226 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 17:40:16,232 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 17:41:16,233 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 17:42:16,236 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 17:43:16,243 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 17:44:16,255 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 17:45:16,270 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 17:46:16,275 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 17:47:12,036 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 17:47:12,240 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 17:47:16,289 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 17:48:16,298 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 17:49:16,299 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 17:50:16,307 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 17:51:16,311 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 17:52:16,326 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 15ms
+2021-06-05 17:53:16,341 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 17:54:16,345 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 17:55:16,353 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 17:56:16,356 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 17:57:12,249 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 17:57:16,370 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 17:58:16,372 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 17:59:16,378 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 18:00:16,386 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 18:01:16,389 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 18:02:12,049 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 18:02:16,392 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 18:03:16,397 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2021-06-05 18:04:16,405 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 18:05:16,419 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2021-06-05 18:06:16,427 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2021-06-05 18:07:12,258 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 18:07:16,434 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 18:08:16,435 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 18:09:16,437 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 18:10:16,439 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 18:11:16,454 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 18:12:16,461 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 18:13:16,471 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 18:14:16,475 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 18:15:16,478 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2021-06-05 18:16:16,484 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2021-06-05 18:17:12,057 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 1
+2021-06-05 18:17:12,259 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 18:17:16,494 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2021-06-05 18:18:16,494 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 18:19:16,505 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2021-06-05 18:20:16,512 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2021-06-05 18:21:16,524 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 18:22:16,535 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 18:23:16,546 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2021-06-05 18:24:16,549 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2021-06-05 18:25:16,549 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2021-06-05 18:26:16,564 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2021-06-05 18:27:12,267 WARN com.netflix.eureka.cluster.PeerEurekaNodes [Eureka-PeerNodesUpdater] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 18:27:16,580 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 15ms
+2021-06-05 18:28:16,592 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 12ms
+2021-06-05 18:29:16,599 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2021-06-05 18:30:16,600 INFO com.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2021-06-05 18:31:05,974 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [Thread-6] Unregistering application CBSSERVICE with eureka with status DOWN
+2021-06-05 18:31:06,173 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-6] Shutting down Eureka Server..
+2021-06-05 18:31:06,193 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-6] Shutting down ...
+2021-06-05 18:31:06,225 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-6] Shut down
+2021-06-05 18:31:06,225 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-6] Eureka Service is now shutdown...
+2021-06-05 18:31:06,229 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-6] Shutting down ...
+2021-06-05 18:31:06,243 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-6] Shut down
+2021-06-05 18:31:06,254 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-6] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:06,275 INFO com.netflix.discovery.DiscoveryClient [Thread-6] Shutting down DiscoveryClient ...
+2021-06-05 18:31:06,286 INFO com.netflix.discovery.DiscoveryClient [Thread-6] Completed shut down of DiscoveryClient
+2021-06-05 18:31:06,394 INFO com.sonal.CBS.CBSProjectApplication [restartedMain] this is a info message
+2021-06-05 18:31:06,395 WARN com.sonal.CBS.CBSProjectApplication [restartedMain] this is a warn message
+2021-06-05 18:31:06,395 ERROR com.sonal.CBS.CBSProjectApplication [restartedMain] this is a error message
+2021-06-05 18:31:06,649 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting CBSProjectApplication using Java 11.0.2 on DESKTOP-4RAGRB1 with PID 15436 (D:\Spring Boot Projects 2021\CBS\target\classes started by Dell in D:\Spring Boot Projects 2021)
+2021-06-05 18:31:06,651 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: @spring.profiles.active@
+2021-06-05 18:31:07,607 INFO org.springframework.cloud.context.scope.GenericScope [restartedMain] BeanFactory id=5f3476f9-00ed-35cd-a922-06a843a633f7
+2021-06-05 18:31:07,706 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8761 (http)
+2021-06-05 18:31:07,707 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:07,707 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-06-05 18:31:07,708 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-06-05 18:31:07,770 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-06-05 18:31:07,770 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1115 ms
+2021-06-05 18:31:07,986 INFO com.sun.jersey.server.impl.application.WebApplicationImpl [restartedMain] Initiating Jersey application, version 'Jersey: 1.19.4 05/24/2017 03:20 PM'
+2021-06-05 18:31:07,995 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON encoding codec LegacyJacksonJson
+2021-06-05 18:31:07,996 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON decoding codec LegacyJacksonJson
+2021-06-05 18:31:07,996 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML encoding codec XStreamXml
+2021-06-05 18:31:07,996 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML decoding codec XStreamXml
+2021-06-05 18:31:08,457 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 16 endpoint(s) beneath base path '/actuator'
+2021-06-05 18:31:08,488 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-05 18:31:08,541 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:08,545 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-06-05 18:31:08,782 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [restartedMain] Eureka HTTP Client uses Jersey
+2021-06-05 18:31:08,808 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [restartedMain] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-06-05 18:31:08,814 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2021-06-05 18:31:08,815 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2021-06-05 18:31:08,815 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Client configured to neither register nor query for data.
+2021-06-05 18:31:08,817 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1622898068817 with initial instances count: 0
+2021-06-05 18:31:08,822 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initializing ...
+2021-06-05 18:31:08,822 WARN com.netflix.eureka.cluster.PeerEurekaNodes [restartedMain] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 18:31:08,825 INFO com.netflix.eureka.registry.AbstractInstanceRegistry [restartedMain] Finished initializing remote region registries. All known remote regions: []
+2021-06-05 18:31:08,826 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initialized
+2021-06-05 18:31:08,845 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [restartedMain] Registering application CBSSERVICE with eureka with status UP
+2021-06-05 18:31:08,846 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:08,848 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-29] Setting the eureka configuration..
+2021-06-05 18:31:08,851 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-29] isAws returned false
+2021-06-05 18:31:08,851 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-29] Initialized server context
+2021-06-05 18:31:08,851 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-29] Got 1 instances from neighboring DS node
+2021-06-05 18:31:08,851 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-29] Renew threshold is: 1
+2021-06-05 18:31:08,851 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-29] Changing status to UP
+2021-06-05 18:31:08,857 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerInitializerConfiguration [Thread-29] Started Eureka Server
+2021-06-05 18:31:08,858 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8761 (http) with context path ''
+2021-06-05 18:31:08,859 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [restartedMain] Updating port to 8761
+2021-06-05 18:31:09,051 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2021-06-05 18:31:09,052 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-06-05 18:31:09,062 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-06-05 18:31:09,072 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started CBSProjectApplication in 2.66 seconds (JVM running for 1111351.183)
+2021-06-05 18:31:09,077 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-06-05 18:31:10,020 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [Thread-17] Unregistering application CBSSERVICE with eureka with status DOWN
+2021-06-05 18:31:10,124 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-17] Shutting down Eureka Server..
+2021-06-05 18:31:10,128 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-17] Shutting down ...
+2021-06-05 18:31:10,135 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-17] Shut down
+2021-06-05 18:31:10,136 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-17] Eureka Service is now shutdown...
+2021-06-05 18:31:10,136 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-17] Shutting down ...
+2021-06-05 18:31:10,141 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-17] Shut down
+2021-06-05 18:31:10,144 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-17] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:10,147 INFO com.netflix.discovery.DiscoveryClient [Thread-17] Shutting down DiscoveryClient ...
+2021-06-05 18:31:10,149 INFO com.netflix.discovery.DiscoveryClient [Thread-17] Completed shut down of DiscoveryClient
+2021-06-05 18:31:10,201 INFO com.sonal.CBS.CBSProjectApplication [restartedMain] this is a info message
+2021-06-05 18:31:10,201 WARN com.sonal.CBS.CBSProjectApplication [restartedMain] this is a warn message
+2021-06-05 18:31:10,201 ERROR com.sonal.CBS.CBSProjectApplication [restartedMain] this is a error message
+2021-06-05 18:31:10,399 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting CBSProjectApplication using Java 11.0.2 on DESKTOP-4RAGRB1 with PID 15436 (D:\Spring Boot Projects 2021\CBS\target\classes started by Dell in D:\Spring Boot Projects 2021)
+2021-06-05 18:31:10,400 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: @spring.profiles.active@
+2021-06-05 18:31:10,953 INFO org.springframework.cloud.context.scope.GenericScope [restartedMain] BeanFactory id=5f3476f9-00ed-35cd-a922-06a843a633f7
+2021-06-05 18:31:11,045 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8761 (http)
+2021-06-05 18:31:11,048 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:11,049 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-06-05 18:31:11,049 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-06-05 18:31:11,110 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-06-05 18:31:11,110 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 707 ms
+2021-06-05 18:31:11,386 INFO com.sun.jersey.server.impl.application.WebApplicationImpl [restartedMain] Initiating Jersey application, version 'Jersey: 1.19.4 05/24/2017 03:20 PM'
+2021-06-05 18:31:11,396 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON encoding codec LegacyJacksonJson
+2021-06-05 18:31:11,397 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON decoding codec LegacyJacksonJson
+2021-06-05 18:31:11,397 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML encoding codec XStreamXml
+2021-06-05 18:31:11,397 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML decoding codec XStreamXml
+2021-06-05 18:31:11,811 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 16 endpoint(s) beneath base path '/actuator'
+2021-06-05 18:31:11,825 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-05 18:31:11,850 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:11,852 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-06-05 18:31:12,022 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [restartedMain] Eureka HTTP Client uses Jersey
+2021-06-05 18:31:12,036 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [restartedMain] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-06-05 18:31:12,040 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2021-06-05 18:31:12,040 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2021-06-05 18:31:12,041 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Client configured to neither register nor query for data.
+2021-06-05 18:31:12,041 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1622898072041 with initial instances count: 0
+2021-06-05 18:31:12,044 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initializing ...
+2021-06-05 18:31:12,045 WARN com.netflix.eureka.cluster.PeerEurekaNodes [restartedMain] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 18:31:12,047 INFO com.netflix.eureka.registry.AbstractInstanceRegistry [restartedMain] Finished initializing remote region registries. All known remote regions: []
+2021-06-05 18:31:12,048 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initialized
+2021-06-05 18:31:12,061 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [restartedMain] Registering application CBSSERVICE with eureka with status UP
+2021-06-05 18:31:12,062 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-43] Setting the eureka configuration..
+2021-06-05 18:31:12,062 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:12,063 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-43] isAws returned false
+2021-06-05 18:31:12,063 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-43] Initialized server context
+2021-06-05 18:31:12,063 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-43] Got 1 instances from neighboring DS node
+2021-06-05 18:31:12,063 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-43] Renew threshold is: 1
+2021-06-05 18:31:12,063 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-43] Changing status to UP
+2021-06-05 18:31:12,067 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8761 (http) with context path ''
+2021-06-05 18:31:12,067 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerInitializerConfiguration [Thread-43] Started Eureka Server
+2021-06-05 18:31:12,067 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [restartedMain] Updating port to 8761
+2021-06-05 18:31:12,197 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2021-06-05 18:31:12,198 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-06-05 18:31:12,204 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-06-05 18:31:12,211 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started CBSProjectApplication in 2.003 seconds (JVM running for 1111354.323)
+2021-06-05 18:31:12,213 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-06-05 18:31:21,475 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [Thread-31] Unregistering application CBSSERVICE with eureka with status DOWN
+2021-06-05 18:31:21,605 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-31] Shutting down Eureka Server..
+2021-06-05 18:31:21,610 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-31] Shutting down ...
+2021-06-05 18:31:21,625 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-31] Shut down
+2021-06-05 18:31:21,625 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-31] Eureka Service is now shutdown...
+2021-06-05 18:31:21,626 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-31] Shutting down ...
+2021-06-05 18:31:21,634 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-31] Shut down
+2021-06-05 18:31:21,637 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-31] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:21,642 INFO com.netflix.discovery.DiscoveryClient [Thread-31] Shutting down DiscoveryClient ...
+2021-06-05 18:31:21,643 INFO com.netflix.discovery.DiscoveryClient [Thread-31] Completed shut down of DiscoveryClient
+2021-06-05 18:31:21,722 INFO com.sonal.CBS.CBSProjectApplication [restartedMain] this is a info message
+2021-06-05 18:31:21,722 WARN com.sonal.CBS.CBSProjectApplication [restartedMain] this is a warn message
+2021-06-05 18:31:21,723 ERROR com.sonal.CBS.CBSProjectApplication [restartedMain] this is a error message
+2021-06-05 18:31:22,012 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting CBSProjectApplication using Java 11.0.2 on DESKTOP-4RAGRB1 with PID 15436 (D:\Spring Boot Projects 2021\CBS\target\classes started by Dell in D:\Spring Boot Projects 2021)
+2021-06-05 18:31:22,013 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: @spring.profiles.active@
+2021-06-05 18:31:23,002 INFO org.springframework.cloud.context.scope.GenericScope [restartedMain] BeanFactory id=5f3476f9-00ed-35cd-a922-06a843a633f7
+2021-06-05 18:31:23,111 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8761 (http)
+2021-06-05 18:31:23,112 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:23,113 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-06-05 18:31:23,114 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-06-05 18:31:23,177 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-06-05 18:31:23,178 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1160 ms
+2021-06-05 18:31:23,397 INFO com.sun.jersey.server.impl.application.WebApplicationImpl [restartedMain] Initiating Jersey application, version 'Jersey: 1.19.4 05/24/2017 03:20 PM'
+2021-06-05 18:31:23,407 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON encoding codec LegacyJacksonJson
+2021-06-05 18:31:23,408 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON decoding codec LegacyJacksonJson
+2021-06-05 18:31:23,408 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML encoding codec XStreamXml
+2021-06-05 18:31:23,409 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML decoding codec XStreamXml
+2021-06-05 18:31:23,804 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 16 endpoint(s) beneath base path '/actuator'
+2021-06-05 18:31:23,829 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-05 18:31:23,867 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:23,868 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-06-05 18:31:24,062 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [restartedMain] Eureka HTTP Client uses Jersey
+2021-06-05 18:31:24,075 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [restartedMain] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-06-05 18:31:24,078 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2021-06-05 18:31:24,079 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2021-06-05 18:31:24,079 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Client configured to neither register nor query for data.
+2021-06-05 18:31:24,079 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1622898084079 with initial instances count: 0
+2021-06-05 18:31:24,086 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initializing ...
+2021-06-05 18:31:24,086 WARN com.netflix.eureka.cluster.PeerEurekaNodes [restartedMain] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 18:31:24,089 INFO com.netflix.eureka.registry.AbstractInstanceRegistry [restartedMain] Finished initializing remote region registries. All known remote regions: []
+2021-06-05 18:31:24,090 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initialized
+2021-06-05 18:31:24,101 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [restartedMain] Registering application CBSSERVICE with eureka with status UP
+2021-06-05 18:31:24,102 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-57] Setting the eureka configuration..
+2021-06-05 18:31:24,102 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:24,103 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-57] isAws returned false
+2021-06-05 18:31:24,103 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-57] Initialized server context
+2021-06-05 18:31:24,103 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-57] Got 1 instances from neighboring DS node
+2021-06-05 18:31:24,103 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-57] Renew threshold is: 1
+2021-06-05 18:31:24,104 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-57] Changing status to UP
+2021-06-05 18:31:24,107 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8761 (http) with context path ''
+2021-06-05 18:31:24,108 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerInitializerConfiguration [Thread-57] Started Eureka Server
+2021-06-05 18:31:24,108 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [restartedMain] Updating port to 8761
+2021-06-05 18:31:24,250 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2021-06-05 18:31:24,251 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-06-05 18:31:24,258 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-06-05 18:31:24,266 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started CBSProjectApplication in 2.535 seconds (JVM running for 1111366.377)
+2021-06-05 18:31:24,268 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-06-05 18:31:25,321 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [Thread-45] Unregistering application CBSSERVICE with eureka with status DOWN
+2021-06-05 18:31:25,389 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-45] Shutting down Eureka Server..
+2021-06-05 18:31:25,391 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-45] Shutting down ...
+2021-06-05 18:31:25,394 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-45] Shut down
+2021-06-05 18:31:25,394 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-45] Eureka Service is now shutdown...
+2021-06-05 18:31:25,394 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-45] Shutting down ...
+2021-06-05 18:31:25,397 INFO com.netflix.eureka.DefaultEurekaServerContext [Thread-45] Shut down
+2021-06-05 18:31:25,399 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-45] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:25,400 INFO com.netflix.discovery.DiscoveryClient [Thread-45] Shutting down DiscoveryClient ...
+2021-06-05 18:31:25,401 INFO com.netflix.discovery.DiscoveryClient [Thread-45] Completed shut down of DiscoveryClient
+2021-06-05 18:31:25,441 INFO com.sonal.CBS.CBSProjectApplication [restartedMain] this is a info message
+2021-06-05 18:31:25,441 WARN com.sonal.CBS.CBSProjectApplication [restartedMain] this is a warn message
+2021-06-05 18:31:25,441 ERROR com.sonal.CBS.CBSProjectApplication [restartedMain] this is a error message
+2021-06-05 18:31:25,553 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting CBSProjectApplication using Java 11.0.2 on DESKTOP-4RAGRB1 with PID 15436 (D:\Spring Boot Projects 2021\CBS\target\classes started by Dell in D:\Spring Boot Projects 2021)
+2021-06-05 18:31:25,553 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: @spring.profiles.active@
+2021-06-05 18:31:25,959 INFO org.springframework.cloud.context.scope.GenericScope [restartedMain] BeanFactory id=5f3476f9-00ed-35cd-a922-06a843a633f7
+2021-06-05 18:31:25,999 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8761 (http)
+2021-06-05 18:31:26,000 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:26,000 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-06-05 18:31:26,000 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-06-05 18:31:26,035 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-06-05 18:31:26,035 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 480 ms
+2021-06-05 18:31:26,199 INFO com.sun.jersey.server.impl.application.WebApplicationImpl [restartedMain] Initiating Jersey application, version 'Jersey: 1.19.4 05/24/2017 03:20 PM'
+2021-06-05 18:31:26,206 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON encoding codec LegacyJacksonJson
+2021-06-05 18:31:26,206 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON decoding codec LegacyJacksonJson
+2021-06-05 18:31:26,206 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML encoding codec XStreamXml
+2021-06-05 18:31:26,207 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML decoding codec XStreamXml
+2021-06-05 18:31:26,523 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 16 endpoint(s) beneath base path '/actuator'
+2021-06-05 18:31:26,543 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-06-05 18:31:26,570 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-05 18:31:26,572 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-06-05 18:31:26,753 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [restartedMain] Eureka HTTP Client uses Jersey
+2021-06-05 18:31:26,762 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [restartedMain] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-06-05 18:31:26,765 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2021-06-05 18:31:26,765 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2021-06-05 18:31:26,766 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Client configured to neither register nor query for data.
+2021-06-05 18:31:26,766 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1622898086766 with initial instances count: 0
+2021-06-05 18:31:26,768 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initializing ...
+2021-06-05 18:31:26,769 WARN com.netflix.eureka.cluster.PeerEurekaNodes [restartedMain] The replica size seems to be empty. Check the route 53 DNS Registry
+2021-06-05 18:31:26,771 INFO com.netflix.eureka.registry.AbstractInstanceRegistry [restartedMain] Finished initializing remote region registries. All known remote regions: []
+2021-06-05 18:31:26,771 INFO com.netflix.eureka.DefaultEurekaServerContext [restartedMain] Initialized
+2021-06-05 18:31:26,779 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [restartedMain] Registering application CBSSERVICE with eureka with status UP
+2021-06-05 18:31:26,780 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-71] Setting the eureka configuration..
+2021-06-05 18:31:26,780 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8761"]
+2021-06-05 18:31:26,781 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-71] isAws returned false
+2021-06-05 18:31:26,781 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap [Thread-71] Initialized server context
+2021-06-05 18:31:26,781 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-71] Got 1 instances from neighboring DS node
+2021-06-05 18:31:26,781 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-71] Renew threshold is: 1
+2021-06-05 18:31:26,782 INFO com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [Thread-71] Changing status to UP
+2021-06-05 18:31:26,785 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8761 (http) with context path ''
+2021-06-05 18:31:26,785 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [restartedMain] Updating port to 8761
+2021-06-05 18:31:26,786 INFO org.springframework.cloud.netflix.eureka.server.EurekaServerInitializerConfiguration [Thread-71] Started Eureka Server
+2021-06-05 18:31:26,913 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2021-06-05 18:31:26,914 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-06-05 18:31:26,920 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-06-05 18:31:26,927 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started CBSProjectApplication in 1.481 seconds (JVM running for 1111369.038)
+2021-06-05 18:31:26,930 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
