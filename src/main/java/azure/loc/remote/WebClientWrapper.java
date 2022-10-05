@@ -51,4 +51,7 @@ public class WebClientWrapper implements Serializable {
                         .clientConnector(new ReactorClientHttpConnector(httpConnector))
                         .build();
     }
+
+    /*Let's inject WebClient and use it to make a REST API call:*/
+
 }

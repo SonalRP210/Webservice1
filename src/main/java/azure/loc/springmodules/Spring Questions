@@ -1,0 +1,16 @@
+Spring boot version 2.7.1 and therefore the latest Spring Framework 5.3.22
+supports Java 17 while also remaining compatible with Java 11 and 8.
+
+RestTemplate Blocking Client
+RestTemplate uses the Java Servlet API, which is based on the thread-per-request model.
+This means that the thread will block until the web client receives the response.
+The problem with the blocking code is due to each thread consuming some amount of memory and CPU cycles.
+Consequently, the application will create many threads, which will exhaust the thread pool or occupy all the available memory.
+
+Spring webclient Non-Blocking Reactive
+WebClient uses an asynchronous, non-blocking solution provided by the Spring Reactive framework.
+The Reactive framework uses an event-driven architecture. It provides means to compose asynchronous logic through the Reactive Streams API.
+As a result, the reactive approach can process more logic while using fewer threads and system resources, compared to the synchronous/blocking method.
+WebClient is part of the Spring WebFlux library.
+supports sync, async, and streaming scenarios.
+WebClient is a non-blocking, reactive client to perform HTTP requests, exposing a fluent, reactive API over underlying HTTP client libraries such as Reactor Netty.

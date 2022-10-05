@@ -1,0 +1,22 @@
+Spring:
+Core:
+    Beans
+    Core
+    Context
+    SpEL
+Data access/integration:
+    Jdbc
+    Orm
+    Oxm
+    JMS
+    Transactions
+Web:
+    WebSocket
+    Servlet
+    Web
+    Portlet
+Aop
+Aspects
+Instrumentation
+Messaging
+Test

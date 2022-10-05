@@ -11,4 +11,6 @@ import java.util.List;
 public interface CollateralService {
 
     List<CollateralDTO> getCollateralListByCode(String code) throws ResourceNotFoundException, JsonProcessingException;
+
+    String getCollateralResponse();
 }

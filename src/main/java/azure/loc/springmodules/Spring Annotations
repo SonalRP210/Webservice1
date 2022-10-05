@@ -1,0 +1,4 @@
+@SpringBootApplication
+@SpringBootApplication(exclude = {SecurityAutoConfiguration.class , DataSourceAutoConfiguration.class})
+
+@Configuration
