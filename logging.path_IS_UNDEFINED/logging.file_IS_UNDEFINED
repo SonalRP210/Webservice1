@@ -739,3 +739,25 @@ java.net.ConnectException: Connection refused: no further information
 io.netty.handler.timeout.ReadTimeoutException: null
 2022-10-05 19:35:37,499 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8081-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.reactive.function.client.WebClientRequestException: nested exception is io.netty.handler.timeout.ReadTimeoutException] with root cause
 io.netty.handler.timeout.ReadTimeoutException: null
+2022-10-05 19:40:35,235 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting LetterOfCreditApplication using Java 11.0.2 on DESKTOP-4RAGRB1 with PID 39188 (D:\Webservice1\target\classes started by Dell in D:\Webservice1)
+2022-10-05 19:40:35,233 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2022-10-05 19:40:35,240 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-10-05 19:40:35,327 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-05 19:40:35,327 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-05 19:40:37,535 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8081 (http)
+2022-10-05 19:40:37,554 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8081"]
+2022-10-05 19:40:37,555 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-10-05 19:40:37,555 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-10-05 19:40:38,347 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-10-05 19:40:38,347 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3019 ms
+2022-10-05 19:40:38,474 INFO org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor [restartedMain] Autowired annotation is not supported on static fields: private static azure.loc.remote.WebClientWrapper azure.loc.remote.ServiceHelper.webClientWrapper
+2022-10-05 19:40:38,474 INFO org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor [restartedMain] Autowired annotation should only be used on methods with parameters: private synchronized void azure.loc.remote.ServiceHelper.initStatic()
+2022-10-05 19:40:39,657 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-10-05 19:40:39,675 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2022-10-05 19:40:39,708 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8081 (http) with context path ''
+2022-10-05 19:40:39,727 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started LetterOfCreditApplication in 5.377 seconds (JVM running for 7.023)
+2022-10-05 19:40:39,729 INFO org.springframework.boot.availability.ApplicationAvailabilityBean [restartedMain] Application availability state LivenessState changed to CORRECT
+2022-10-05 19:40:39,733 INFO org.springframework.boot.availability.ApplicationAvailabilityBean [restartedMain] Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2022-10-05 19:41:05,122 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8081-exec-4] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-05 19:41:05,123 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-4] Initializing Servlet 'dispatcherServlet'
+2022-10-05 19:41:05,124 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-4] Completed initialization in 1 ms
